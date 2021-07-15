@@ -18,6 +18,7 @@ const App = () => {
           </div>
         </div>
       </div>
+    
     </TaskListContextProvidor>
     
   )
