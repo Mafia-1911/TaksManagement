@@ -11,8 +11,7 @@ const TaskListContextProvidor =()=>{
         {title:'walk',id:3}
 
     ])
-        
-j
+        j
     return <TaskListContext.Provider value={props }> <div>Task list context </div>;</TaskListContext.Provider>  
    
 }   
